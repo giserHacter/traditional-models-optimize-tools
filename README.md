@@ -9,4 +9,10 @@
       
       3、	三维数据量过大
       
- version1.0
+      4、    3dsmax模型如何进入arcgis平台
+      
+ # 更新日志
+ 
+ version1.1 增加obj入库方案、兼容烘焙贴图
+ 
+ version1.2 调整lod工具系数，更新贴图优化工具
